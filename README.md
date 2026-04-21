@@ -1,6 +1,5 @@
-# linux-file-permissions-lab
-A hands-on lab demonstrating file operations and permission management in Linux
 # Linux File Permissions Lab
+A hands-on lab demonstrating file operations and permission management in Linux
 
 ## Objective
 This lab demonstrates basic file operations and permission management in a Linux environment.
